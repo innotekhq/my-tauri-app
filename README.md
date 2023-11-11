@@ -1,3 +1,7 @@
+# Tauri starter template
+
+Check out the full blog post: https://innotek.dev/blog/tauri-react-vite-typescript-starter
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
